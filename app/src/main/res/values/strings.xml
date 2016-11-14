@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_usuario">Usuário</string>
+    <string name="label_senha">lbl_senha</string>
+    <string name="label_usuario">lbl_usuario</string>
+    <string name="label_manter_conectado">Manter contato</string>
+    <string name="label_conectar">Conectar</string>
+</resources>
